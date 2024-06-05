@@ -1,0 +1,31 @@
+{
+  "userslog": [
+    {
+      "id": "1",
+      "username": "Ami",
+      "email": "ami1@gmail.com",
+      "password": "ami123",
+      "profile":""
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "username": "jain",
+      "email": "jain@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "1",
+      "username": "jain",
+      "email": "jain@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "1",
+      "username": "jain",
+      "email": "jain@gmail.com",
+      "status": "active"
+    }
+  ]
+}
